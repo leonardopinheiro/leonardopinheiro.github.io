@@ -612,7 +612,7 @@ p {
 a {
   -webkit-transition: border-color 200ms ease, color 200ms ease;
   transition: border-color 200ms ease, color 200ms ease;
-  color: #fff;
+  color: #130a0a;
   text-decoration: none;
 }
 
@@ -643,7 +643,7 @@ a:focus {
   color: rgb(255, 255, 255);
   font-size: 16px;
   line-height: 20px;
-list-style-type: none;
+  list-style-type: none;
 }
 
 .list-unstyled-dot {
